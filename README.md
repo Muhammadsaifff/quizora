@@ -64,13 +64,7 @@ Follow these steps to run Quizora locally on your machine.
    flutter run
    ```
 
-## 📸 Screenshots
 
-| Home Screen | Quiz Screen | Results Screen |
-| :---: | :---: | :---: |
-| ![Home](path/to/home.png) | ![Quiz](path/to/quiz.png) | ![Results](path/to/results.png) |
-
-*(Replace the paths above with actual screenshots stored in an `assets/` or `screenshots/` folder.)*
 
 ## 🤝 Contributing
 
